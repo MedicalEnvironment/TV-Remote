@@ -1,0 +1,7 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <file>main.qml</file>
+        <!-- Add any other QML files used in your project -->
+    </qresource>
+</RCC>
